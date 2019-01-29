@@ -1,1 +1,1 @@
-# CECS475-HelloWorld
+Hello world!
